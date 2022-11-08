@@ -1,0 +1,13 @@
+com\myphotos\demo\controller\AdminController.class
+com\myphotos\demo\model\Photo.class
+com\myphotos\demo\repository\IPhotoRepository.class
+com\myphotos\demo\MyPhotosApplication.class
+com\myphotos\demo\controller\api\AdminPhotoController.class
+com\myphotos\demo\service\MockUserDetailsService.class
+com\myphotos\demo\service\MockUserDetailsService$1.class
+com\myphotos\demo\configuration\SecurityConfiguration.class
+com\myphotos\demo\service\DbPhotoService.class
+com\myphotos\demo\service\PhotoService.class
+com\myphotos\demo\controller\api\PhotoController.class
+com\myphotos\demo\service\IPhotoService.class
+com\myphotos\demo\controller\HomeController.class
